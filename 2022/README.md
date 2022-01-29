@@ -15,3 +15,7 @@ Initiate Your Cyber Security Journey!
 - #03: Provisioning the Security Lab
     - Recording: [youtube](https://youtu.be/BHSmjM6OB0M)
     - Note: [Note](https://github.com/utianayuba/workshops/blob/main/20220127-cyberfest.txt)
+    
+- #04: Investigasi Seru dengan OSINT 
+    - Recording: [youtube](https://youtu.be/OZFZAmJmWc4)
+    - Slide: [slide](4.investigasi-seru-dengan-osint/Investigation with OSINT.pdf)
