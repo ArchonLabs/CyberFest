@@ -18,4 +18,4 @@ Initiate Your Cyber Security Journey!
     
 - #04: Investigasi Seru dengan OSINT 
     - Recording: [youtube](https://youtu.be/OZFZAmJmWc4)
-    - Slide: [slide](4.investigasi-seru-dengan-osint/Investigation with OSINT.pdf)
+    - Slide: [slide](4.investigasi-seru-dengan-osint/presentation.pdf)
