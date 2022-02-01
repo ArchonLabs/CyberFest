@@ -19,3 +19,7 @@ Initiate Your Cyber Security Journey!
 - #04: Investigasi Seru dengan OSINT 
     - Recording: [youtube](https://youtu.be/OZFZAmJmWc4)
     - Slide: [slide](4.investigasi-seru-dengan-osint/presentation.pdf)
+    
+- #05: The Art of Code 
+    - Recording: [youtube](https://youtu.be/XPl0eOXgCuk)
+    - Slide: [slide](5.the-art-of-code/presentation.pdf)
