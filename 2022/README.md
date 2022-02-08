@@ -27,3 +27,7 @@ Initiate Your Cyber Security Journey!
 - #06: Gitu Doang? 
     - Recording: [youtube](https://youtu.be/ATueL0dU-Bg)
     - Slide: [slide](6.gitu-doang/presentation.pdf)
+    
+- #07: Bongkar Program dengan Reverse Engineering 
+    - Recording: [youtube](https://youtu.be/jyzAr1C_2RY)
+    - Slide: [slide](7.bongkar-program-dengan-reverse-engineering/presentation.pdf)
