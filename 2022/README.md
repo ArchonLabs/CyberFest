@@ -23,3 +23,7 @@ Initiate Your Cyber Security Journey!
 - #05: The Art of Code 
     - Recording: [youtube](https://youtu.be/XPl0eOXgCuk)
     - Slide: [slide](5.the-art-of-code/presentation.pdf)
+    
+- #06: Gitu Doang? 
+    - Recording: [youtube](https://youtu.be/ATueL0dU-Bg)
+    - Slide: [slide](6.gitu-doang/presentation.pdf)
