@@ -31,3 +31,7 @@ Initiate Your Cyber Security Journey!
 - #07: Bongkar Program dengan Reverse Engineering 
     - Recording: [youtube](https://youtu.be/jyzAr1C_2RY)
     - Slide: [slide](7.bongkar-program-dengan-reverse-engineering/presentation.pdf)
+
+- #08: Getting Started in Security with CTF 
+    - Recording: [youtube](https://youtu.be/BBmV7-AuM34)
+    - Slide: [slide](8.getting-started-in-security-with-ctf/presentation.pdf)
