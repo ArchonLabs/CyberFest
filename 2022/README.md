@@ -35,3 +35,6 @@ Initiate Your Cyber Security Journey!
 - #08: Getting Started in Security with CTF 
     - Recording: [youtube](https://youtu.be/BBmV7-AuM34)
     - Slide: [slide](8.getting-started-in-security-with-ctf/presentation.pdf)
+
+- #09: Exploring Mobile App Pentest
+    - Recording: [youtube](https://youtu.be/Ybbp3hBBO_k)
