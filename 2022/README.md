@@ -38,3 +38,7 @@ Initiate Your Cyber Security Journey!
 
 - #09: Exploring Mobile App Pentest
     - Recording: [youtube](https://youtu.be/Ybbp3hBBO_k)
+
+- #10: Cyber Security in ISP Level
+    - Recording: [youtube](https://youtu.be/kWrHQgl6rGo)
+    - Slide: [slide](10.cyber-security-in-isp-level/presentation.pdf)
